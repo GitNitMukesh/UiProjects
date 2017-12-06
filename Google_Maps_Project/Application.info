@@ -1,0 +1,4 @@
+Hi this is simple Ui Project to show Map .
+1. Here I  used google Api., So first you need to get the key from google.
+2. In this project i have provided my key , So its working fine, But it will not work
+after some iteration, that means per day some limit is there how many times you search, As google not provided completly free. 
