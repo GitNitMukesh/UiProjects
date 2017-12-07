@@ -13,7 +13,7 @@
 </head>
 
 <body>
-<div  style="width: 66%;height: 647px;background-image: url(resources/assets/images/location.jpg);">
+<div  style="position:absolute;top: 100px;width: 61%;height: 505px;background-image: url(resources/assets/images/location.jpg);background-size: 100% 100%;">
 </div>
 <div style="
     position: absolute;

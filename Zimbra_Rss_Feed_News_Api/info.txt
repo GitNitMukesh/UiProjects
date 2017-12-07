@@ -1,0 +1,7 @@
+Step1:-
+Go to Times of india RSS Feeds
+https://timesofindia.indiatimes.com/rss.cms
+Step2:-
+Take news(Rest Url) you want to display in your Ui, 
+
+Then copy the link and  pest in the (http://www.rssfeedwidget.com/)link site to format it in to Html
